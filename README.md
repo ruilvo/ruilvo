@@ -1,4 +1,8 @@
-### Hi there 👋
+Engineering Physicist, now taking a PhD in Telecommunications Engineering. 
+
+Daytime job is developing photonic solutions for telecommunication satellites. 
+
+Interested in photonics, all things radio, SDR, and software. Ham radio operator with callsign CT7ALW.
 
 <!--
 **ruilvo/ruilvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
